@@ -31,4 +31,5 @@ class Transfer
       @status = "reversed"
     else
       ""
+    end
 end
